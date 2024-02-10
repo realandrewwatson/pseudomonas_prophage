@@ -7,8 +7,9 @@
 usr="adw7050"
 
 #MODIFY THESE LINES
-assembledDir="../genome_data/pseudomonas" # CHANGE TO PATH OF FOLDER CONTAINING **SPADES** DATA
-workspaceDir="../workspaces" # CHANGE TO WHERE THE OUTPUT FILES SHOULD GO
+mainDir="/projects/p31752/pseudomonas_prophage" #THE ABSOLUTE PATH TO YOUR PROJECT FOLDER
+assembledDir="${mainDir}/genome_data/pseudomonas" # CHANGE TO PATH OF FOLDER CONTAINING **SPADES** DATA
+workspaceDir="${mainDir}/workspaces" # CHANGE TO WHERE THE OUTPUT FILES SHOULD GO
 
 
 # Create the workspace directory
