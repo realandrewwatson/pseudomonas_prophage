@@ -1,0 +1,7 @@
+
+Running DEPhT with existing 'Pseudomonas' model.
+
+/home/adw7050/.conda/envs/depht/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:727: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+
+Total runtime: 0:12:30.137907

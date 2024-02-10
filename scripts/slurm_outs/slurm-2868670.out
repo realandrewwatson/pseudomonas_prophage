@@ -1,0 +1,4149 @@
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1020-IPA-00//1020-IPA-00.faa -o ../workspaces/quast/1020-IPA-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:10
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1020-IPA-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1020-IPA-00//1020-IPA-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1020-IPA-03-a//1020-IPA-03-a.faa -o ../workspaces/quast/1020-IPA-03-a
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:17
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1020-IPA-03-a/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1020-IPA-03-a//1020-IPA-03-a.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1020-PPAB-01-a//1020-PPAB-01-a.faa -o ../workspaces/quast/1020-PPAB-01-a
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:18
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1020-PPAB-01-a/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1020-PPAB-01-a//1020-PPAB-01-a.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1037-IPA-00-a//1037-IPA-00-a.faa -o ../workspaces/quast/1037-IPA-00-a
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:19
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1037-IPA-00-a/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1037-IPA-00-a//1037-IPA-00-a.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1037-PA1-00-a//1037-PA1-00-a.faa -o ../workspaces/quast/1037-PA1-00-a
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:19
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1037-PA1-00-a/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1037-PA1-00-a//1037-PA1-00-a.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1037-PA2-00-a//1037-PA2-00-a.faa -o ../workspaces/quast/1037-PA2-00-a
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:20
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1037-PA2-00-a/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1037-PA2-00-a//1037-PA2-00-a.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1042-IPA0-00//1042-IPA0-00.faa -o ../workspaces/quast/1042-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:21
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1042-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1042-IPA0-00//1042-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1042-IPA-04//1042-IPA-04.faa -o ../workspaces/quast/1042-IPA-04
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:21
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1042-IPA-04/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1042-IPA-04//1042-IPA-04.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1045-IPA-05//1045-IPA-05.faa -o ../workspaces/quast/1045-IPA-05
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:22
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1045-IPA-05/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1045-IPA-05//1045-IPA-05.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1045-IPA-07//1045-IPA-07.faa -o ../workspaces/quast/1045-IPA-07
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:23
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1045-IPA-07/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1045-IPA-07//1045-IPA-07.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1049-IPA-10//1049-IPA-10.faa -o ../workspaces/quast/1049-IPA-10
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:23
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1049-IPA-10/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1049-IPA-10//1049-IPA-10.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1049-IPA-14//1049-IPA-14.faa -o ../workspaces/quast/1049-IPA-14
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:24
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1049-IPA-14/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1049-IPA-14//1049-IPA-14.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1049-IPA-40//1049-IPA-40.faa -o ../workspaces/quast/1049-IPA-40
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:25
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1049-IPA-40/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1049-IPA-40//1049-IPA-40.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1049-PAI-00//1049-PAI-00.faa -o ../workspaces/quast/1049-PAI-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:25
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1049-PAI-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1049-PAI-00//1049-PAI-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1054-IPA-00//1054-IPA-00.faa -o ../workspaces/quast/1054-IPA-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:26
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1054-IPA-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1054-IPA-00//1054-IPA-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1060-IPA-00//1060-IPA-00.faa -o ../workspaces/quast/1060-IPA-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:27
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1060-IPA-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1060-IPA-00//1060-IPA-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1060-IPA-03//1060-IPA-03.faa -o ../workspaces/quast/1060-IPA-03
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:27
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1060-IPA-03/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1060-IPA-03//1060-IPA-03.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1060-PA1-02//1060-PA1-02.faa -o ../workspaces/quast/1060-PA1-02
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:28
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1060-PA1-02/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1060-PA1-02//1060-PA1-02.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1060-PA2-04//1060-PA2-04.faa -o ../workspaces/quast/1060-PA2-04
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:29
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1060-PA2-04/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1060-PA2-04//1060-PA2-04.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1060-PA3-06//1060-PA3-06.faa -o ../workspaces/quast/1060-PA3-06
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:29
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1060-PA3-06/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1060-PA3-06//1060-PA3-06.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1060-PA4-06//1060-PA4-06.faa -o ../workspaces/quast/1060-PA4-06
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:30
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1060-PA4-06/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1060-PA4-06//1060-PA4-06.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1066-IPA-00//1066-IPA-00.faa -o ../workspaces/quast/1066-IPA-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:31
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1066-IPA-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1066-IPA-00//1066-IPA-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1067-IPA-00//1067-IPA-00.faa -o ../workspaces/quast/1067-IPA-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:31
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1067-IPA-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1067-IPA-00//1067-IPA-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1069-IPA-00//1069-IPA-00.faa -o ../workspaces/quast/1069-IPA-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:32
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1069-IPA-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1069-IPA-00//1069-IPA-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1094-IPA-00//1094-IPA-00.faa -o ../workspaces/quast/1094-IPA-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:33
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1094-IPA-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1094-IPA-00//1094-IPA-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1121-IPA-15-a//1121-IPA-15-a.faa -o ../workspaces/quast/1121-IPA-15-a
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:33
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1121-IPA-15-a/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1121-IPA-15-a//1121-IPA-15-a.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1134-IPA-14-a//1134-IPA-14-a.faa -o ../workspaces/quast/1134-IPA-14-a
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:34
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1134-IPA-14-a/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1134-IPA-14-a//1134-IPA-14-a.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1164-IPA0-00-a//1164-IPA0-00-a.faa -o ../workspaces/quast/1164-IPA0-00-a
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:35
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1164-IPA0-00-a/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1164-IPA0-00-a//1164-IPA0-00-a.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1164-IPA0-03-a//1164-IPA0-03-a.faa -o ../workspaces/quast/1164-IPA0-03-a
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:35
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1164-IPA0-03-a/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1164-IPA0-03-a//1164-IPA0-03-a.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1170-IPA0-00-a//1170-IPA0-00-a.faa -o ../workspaces/quast/1170-IPA0-00-a
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:36
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1170-IPA0-00-a/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1170-IPA0-00-a//1170-IPA0-00-a.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1171-IPA0-07-a//1171-IPA0-07-a.faa -o ../workspaces/quast/1171-IPA0-07-a
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:36
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1171-IPA0-07-a/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1171-IPA0-07-a//1171-IPA0-07-a.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1200-IPA0-00//1200-IPA0-00.faa -o ../workspaces/quast/1200-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:37
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1200-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1200-IPA0-00//1200-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1204-PPA0-00//1204-PPA0-00.faa -o ../workspaces/quast/1204-PPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:38
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1204-PPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1204-PPA0-00//1204-PPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1205-IPA0-00//1205-IPA0-00.faa -o ../workspaces/quast/1205-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:39
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1205-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1205-IPA0-00//1205-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1210-IPA0-00-a//1210-IPA0-00-a.faa -o ../workspaces/quast/1210-IPA0-00-a
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:39
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1210-IPA0-00-a/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1210-IPA0-00-a//1210-IPA0-00-a.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1210-IPA0-06//1210-IPA0-06.faa -o ../workspaces/quast/1210-IPA0-06
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:40
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1210-IPA0-06/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1210-IPA0-06//1210-IPA0-06.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1213-IPA0-00//1213-IPA0-00.faa -o ../workspaces/quast/1213-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:40
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1213-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1213-IPA0-00//1213-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1230-IPA0-24//1230-IPA0-24.faa -o ../workspaces/quast/1230-IPA0-24
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:41
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1230-IPA0-24/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1230-IPA0-24//1230-IPA0-24.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1231-IPA0-00//1231-IPA0-00.faa -o ../workspaces/quast/1231-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:42
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1231-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1231-IPA0-00//1231-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1241-IPA0-00-1//1241-IPA0-00-1.faa -o ../workspaces/quast/1241-IPA0-00-1
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:42
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1241-IPA0-00-1/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1241-IPA0-00-1//1241-IPA0-00-1.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1241-IPA0-08//1241-IPA0-08.faa -o ../workspaces/quast/1241-IPA0-08
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:43
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1241-IPA0-08/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1241-IPA0-08//1241-IPA0-08.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1248-IPA0-11//1248-IPA0-11.faa -o ../workspaces/quast/1248-IPA0-11
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:44
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1248-IPA0-11/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1248-IPA0-11//1248-IPA0-11.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1248-IPA0-14a//1248-IPA0-14a.faa -o ../workspaces/quast/1248-IPA0-14a
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:44
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1248-IPA0-14a/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1248-IPA0-14a//1248-IPA0-14a.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1248-IPA0-30//1248-IPA0-30.faa -o ../workspaces/quast/1248-IPA0-30
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:45
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1248-IPA0-30/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1248-IPA0-30//1248-IPA0-30.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1251-IPA0-17//1251-IPA0-17.faa -o ../workspaces/quast/1251-IPA0-17
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:46
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1251-IPA0-17/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1251-IPA0-17//1251-IPA0-17.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1251-IPA0-22//1251-IPA0-22.faa -o ../workspaces/quast/1251-IPA0-22
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:46
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1251-IPA0-22/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1251-IPA0-22//1251-IPA0-22.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1265-IPA0-00//1265-IPA0-00.faa -o ../workspaces/quast/1265-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:47
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1265-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1265-IPA0-00//1265-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1265-IPA0-10//1265-IPA0-10.faa -o ../workspaces/quast/1265-IPA0-10
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:48
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1265-IPA0-10/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1265-IPA0-10//1265-IPA0-10.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1265-PPA0-00-1a//1265-PPA0-00-1a.faa -o ../workspaces/quast/1265-PPA0-00-1a
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:48
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1265-PPA0-00-1a/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1265-PPA0-00-1a//1265-PPA0-00-1a.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1268-IPA0-08//1268-IPA0-08.faa -o ../workspaces/quast/1268-IPA0-08
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:49
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1268-IPA0-08/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1268-IPA0-08//1268-IPA0-08.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1270-IPA0-16//1270-IPA0-16.faa -o ../workspaces/quast/1270-IPA0-16
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:50
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1270-IPA0-16/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1270-IPA0-16//1270-IPA0-16.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1270-IPA0-24//1270-IPA0-24.faa -o ../workspaces/quast/1270-IPA0-24
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:50
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1270-IPA0-24/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1270-IPA0-24//1270-IPA0-24.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1270-IPA1-24//1270-IPA1-24.faa -o ../workspaces/quast/1270-IPA1-24
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:51
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1270-IPA1-24/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1270-IPA1-24//1270-IPA1-24.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1270-IPA2-34//1270-IPA2-34.faa -o ../workspaces/quast/1270-IPA2-34
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:52
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1270-IPA2-34/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1270-IPA2-34//1270-IPA2-34.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1296-IPA0-21//1296-IPA0-21.faa -o ../workspaces/quast/1296-IPA0-21
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:52
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1296-IPA0-21/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1296-IPA0-21//1296-IPA0-21.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1296-IPA0-26//1296-IPA0-26.faa -o ../workspaces/quast/1296-IPA0-26
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:53
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1296-IPA0-26/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1296-IPA0-26//1296-IPA0-26.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1296-IPA0-32//1296-IPA0-32.faa -o ../workspaces/quast/1296-IPA0-32
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:54
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1296-IPA0-32/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1296-IPA0-32//1296-IPA0-32.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1296-IPA1-26//1296-IPA1-26.faa -o ../workspaces/quast/1296-IPA1-26
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:54
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1296-IPA1-26/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1296-IPA1-26//1296-IPA1-26.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1300-IPA0-09//1300-IPA0-09.faa -o ../workspaces/quast/1300-IPA0-09
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:55
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1300-IPA0-09/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1300-IPA0-09//1300-IPA0-09.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1304-IPA0-26//1304-IPA0-26.faa -o ../workspaces/quast/1304-IPA0-26
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:56
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1304-IPA0-26/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1304-IPA0-26//1304-IPA0-26.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1304-IPA1-26//1304-IPA1-26.faa -o ../workspaces/quast/1304-IPA1-26
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:56
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1304-IPA1-26/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1304-IPA1-26//1304-IPA1-26.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1304-IPAB-63//1304-IPAB-63.faa -o ../workspaces/quast/1304-IPAB-63
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:57
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1304-IPAB-63/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1304-IPAB-63//1304-IPAB-63.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1305-IPA0-10//1305-IPA0-10.faa -o ../workspaces/quast/1305-IPA0-10
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:58
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1305-IPA0-10/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1305-IPA0-10//1305-IPA0-10.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1305-IPA0-16-1//1305-IPA0-16-1.faa -o ../workspaces/quast/1305-IPA0-16-1
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:58
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1305-IPA0-16-1/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1305-IPA0-16-1//1305-IPA0-16-1.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1305-IPA0-19-1//1305-IPA0-19-1.faa -o ../workspaces/quast/1305-IPA0-19-1
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:29:59
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1305-IPA0-19-1/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1305-IPA0-19-1//1305-IPA0-19-1.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1321-IPA0-00//1321-IPA0-00.faa -o ../workspaces/quast/1321-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:00
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1321-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1321-IPA0-00//1321-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1324-IPAB-21//1324-IPAB-21.faa -o ../workspaces/quast/1324-IPAB-21
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:00
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1324-IPAB-21/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1324-IPAB-21//1324-IPAB-21.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA0-00//1329-IPA0-00.faa -o ../workspaces/quast/1329-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:01
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA0-00//1329-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA0-28//1329-IPA0-28.faa -o ../workspaces/quast/1329-IPA0-28
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:02
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA0-28/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA0-28//1329-IPA0-28.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA0-33//1329-IPA0-33.faa -o ../workspaces/quast/1329-IPA0-33
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:02
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA0-33/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA0-33//1329-IPA0-33.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA0-35//1329-IPA0-35.faa -o ../workspaces/quast/1329-IPA0-35
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:03
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA0-35/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA0-35//1329-IPA0-35.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA0-41//1329-IPA0-41.faa -o ../workspaces/quast/1329-IPA0-41
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:03
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA0-41/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA0-41//1329-IPA0-41.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA0-44//1329-IPA0-44.faa -o ../workspaces/quast/1329-IPA0-44
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:04
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA0-44/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA0-44//1329-IPA0-44.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA0-53//1329-IPA0-53.faa -o ../workspaces/quast/1329-IPA0-53
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:05
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA0-53/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA0-53//1329-IPA0-53.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA1-28//1329-IPA1-28.faa -o ../workspaces/quast/1329-IPA1-28
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:05
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA1-28/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA1-28//1329-IPA1-28.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA1-35//1329-IPA1-35.faa -o ../workspaces/quast/1329-IPA1-35
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:06
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA1-35/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA1-35//1329-IPA1-35.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA1-41//1329-IPA1-41.faa -o ../workspaces/quast/1329-IPA1-41
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:07
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA1-41/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA1-41//1329-IPA1-41.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA1-44//1329-IPA1-44.faa -o ../workspaces/quast/1329-IPA1-44
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:07
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA1-44/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA1-44//1329-IPA1-44.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA1-53//1329-IPA1-53.faa -o ../workspaces/quast/1329-IPA1-53
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:08
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA1-53/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA1-53//1329-IPA1-53.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA2-53//1329-IPA2-53.faa -o ../workspaces/quast/1329-IPA2-53
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:09
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA2-53/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA2-53//1329-IPA2-53.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA3-28//1329-IPA3-28.faa -o ../workspaces/quast/1329-IPA3-28
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:10
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA3-28/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA3-28//1329-IPA3-28.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA4-28//1329-IPA4-28.faa -o ../workspaces/quast/1329-IPA4-28
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:10
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA4-28/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA4-28//1329-IPA4-28.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPA5-28//1329-IPA5-28.faa -o ../workspaces/quast/1329-IPA5-28
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:11
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPA5-28/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPA5-28//1329-IPA5-28.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPAB-28//1329-IPAB-28.faa -o ../workspaces/quast/1329-IPAB-28
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:12
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPAB-28/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPAB-28//1329-IPAB-28.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPAB-30-1//1329-IPAB-30-1.faa -o ../workspaces/quast/1329-IPAB-30-1
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:12
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPAB-30-1/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPAB-30-1//1329-IPAB-30-1.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-IPAB-31-1//1329-IPAB-31-1.faa -o ../workspaces/quast/1329-IPAB-31-1
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:13
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-IPAB-31-1/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-IPAB-31-1//1329-IPAB-31-1.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1329-PPA0-02//1329-PPA0-02.faa -o ../workspaces/quast/1329-PPA0-02
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:13
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1329-PPA0-02/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1329-PPA0-02//1329-PPA0-02.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1347-IPA0-07//1347-IPA0-07.faa -o ../workspaces/quast/1347-IPA0-07
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:14
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1347-IPA0-07/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1347-IPA0-07//1347-IPA0-07.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1355-IPA0-00//1355-IPA0-00.faa -o ../workspaces/quast/1355-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:15
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1355-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1355-IPA0-00//1355-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1355-IPA0-07//1355-IPA0-07.faa -o ../workspaces/quast/1355-IPA0-07
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:15
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1355-IPA0-07/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1355-IPA0-07//1355-IPA0-07.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1355-IPA0-23//1355-IPA0-23.faa -o ../workspaces/quast/1355-IPA0-23
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:16
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1355-IPA0-23/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1355-IPA0-23//1355-IPA0-23.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1370-IPA0-27//1370-IPA0-27.faa -o ../workspaces/quast/1370-IPA0-27
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:17
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1370-IPA0-27/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1370-IPA0-27//1370-IPA0-27.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1370-IPA0-29//1370-IPA0-29.faa -o ../workspaces/quast/1370-IPA0-29
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:17
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1370-IPA0-29/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1370-IPA0-29//1370-IPA0-29.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1370-IPA1-29//1370-IPA1-29.faa -o ../workspaces/quast/1370-IPA1-29
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:18
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1370-IPA1-29/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1370-IPA1-29//1370-IPA1-29.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1375-IPA0-43//1375-IPA0-43.faa -o ../workspaces/quast/1375-IPA0-43
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:19
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1375-IPA0-43/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1375-IPA0-43//1375-IPA0-43.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1387-IPA0-00//1387-IPA0-00.faa -o ../workspaces/quast/1387-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:19
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1387-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1387-IPA0-00//1387-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1394-IPA0-00//1394-IPA0-00.faa -o ../workspaces/quast/1394-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:20
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1394-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1394-IPA0-00//1394-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1412-IPA0-21//1412-IPA0-21.faa -o ../workspaces/quast/1412-IPA0-21
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:21
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1412-IPA0-21/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1412-IPA0-21//1412-IPA0-21.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1412-IPA0-31//1412-IPA0-31.faa -o ../workspaces/quast/1412-IPA0-31
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:21
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1412-IPA0-31/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1412-IPA0-31//1412-IPA0-31.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1416-IPA0-21//1416-IPA0-21.faa -o ../workspaces/quast/1416-IPA0-21
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:22
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1416-IPA0-21/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1416-IPA0-21//1416-IPA0-21.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1431-IPA0-00//1431-IPA0-00.faa -o ../workspaces/quast/1431-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:23
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1431-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1431-IPA0-00//1431-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1431-IPA0-06//1431-IPA0-06.faa -o ../workspaces/quast/1431-IPA0-06
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:23
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1431-IPA0-06/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1431-IPA0-06//1431-IPA0-06.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1444-IPA0-00//1444-IPA0-00.faa -o ../workspaces/quast/1444-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:24
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1444-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1444-IPA0-00//1444-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1444-IPA0-05//1444-IPA0-05.faa -o ../workspaces/quast/1444-IPA0-05
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:25
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1444-IPA0-05/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1444-IPA0-05//1444-IPA0-05.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1446-IPA0-18//1446-IPA0-18.faa -o ../workspaces/quast/1446-IPA0-18
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:25
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1446-IPA0-18/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1446-IPA0-18//1446-IPA0-18.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1447-IPA0-15//1447-IPA0-15.faa -o ../workspaces/quast/1447-IPA0-15
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:26
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1447-IPA0-15/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1447-IPA0-15//1447-IPA0-15.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1447-IPA0-40-1//1447-IPA0-40-1.faa -o ../workspaces/quast/1447-IPA0-40-1
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:27
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1447-IPA0-40-1/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1447-IPA0-40-1//1447-IPA0-40-1.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1450-IPA0-00//1450-IPA0-00.faa -o ../workspaces/quast/1450-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:27
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1450-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1450-IPA0-00//1450-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1450-IPA0-05//1450-IPA0-05.faa -o ../workspaces/quast/1450-IPA0-05
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:28
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1450-IPA0-05/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1450-IPA0-05//1450-IPA0-05.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1455-IPA0-64//1455-IPA0-64.faa -o ../workspaces/quast/1455-IPA0-64
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:28
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1455-IPA0-64/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1455-IPA0-64//1455-IPA0-64.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1460-IPA0-33//1460-IPA0-33.faa -o ../workspaces/quast/1460-IPA0-33
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:29
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1460-IPA0-33/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1460-IPA0-33//1460-IPA0-33.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1461-IPA0-00//1461-IPA0-00.faa -o ../workspaces/quast/1461-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:30
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1461-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1461-IPA0-00//1461-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1461-IPA0-26//1461-IPA0-26.faa -o ../workspaces/quast/1461-IPA0-26
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:30
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1461-IPA0-26/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1461-IPA0-26//1461-IPA0-26.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1461-PPA0-06//1461-PPA0-06.faa -o ../workspaces/quast/1461-PPA0-06
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:31
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1461-PPA0-06/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1461-PPA0-06//1461-PPA0-06.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1466-IPA0-09//1466-IPA0-09.faa -o ../workspaces/quast/1466-IPA0-09
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:32
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1466-IPA0-09/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1466-IPA0-09//1466-IPA0-09.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1466-IPA0-31//1466-IPA0-31.faa -o ../workspaces/quast/1466-IPA0-31
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:32
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1466-IPA0-31/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1466-IPA0-31//1466-IPA0-31.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1486-IPA0-00//1486-IPA0-00.faa -o ../workspaces/quast/1486-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:33
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1486-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1486-IPA0-00//1486-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1486-IPA0-05//1486-IPA0-05.faa -o ../workspaces/quast/1486-IPA0-05
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:34
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1486-IPA0-05/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1486-IPA0-05//1486-IPA0-05.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1487-IPA0-04//1487-IPA0-04.faa -o ../workspaces/quast/1487-IPA0-04
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:34
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1487-IPA0-04/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1487-IPA0-04//1487-IPA0-04.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1492-IPA0-72//1492-IPA0-72.faa -o ../workspaces/quast/1492-IPA0-72
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:35
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1492-IPA0-72/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1492-IPA0-72//1492-IPA0-72.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1492-IPA1-72//1492-IPA1-72.faa -o ../workspaces/quast/1492-IPA1-72
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:35
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1492-IPA1-72/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1492-IPA1-72//1492-IPA1-72.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1499-IPA0-23//1499-IPA0-23.faa -o ../workspaces/quast/1499-IPA0-23
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:36
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1499-IPA0-23/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1499-IPA0-23//1499-IPA0-23.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1511-IPA0-19//1511-IPA0-19.faa -o ../workspaces/quast/1511-IPA0-19
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:37
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1511-IPA0-19/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1511-IPA0-19//1511-IPA0-19.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1511-IPA1-19//1511-IPA1-19.faa -o ../workspaces/quast/1511-IPA1-19
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:37
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1511-IPA1-19/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1511-IPA1-19//1511-IPA1-19.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1512-IPA0-06//1512-IPA0-06.faa -o ../workspaces/quast/1512-IPA0-06
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:38
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1512-IPA0-06/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1512-IPA0-06//1512-IPA0-06.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1512-IPA0-12//1512-IPA0-12.faa -o ../workspaces/quast/1512-IPA0-12
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:39
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1512-IPA0-12/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1512-IPA0-12//1512-IPA0-12.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1512-IPA0-22-2//1512-IPA0-22-2.faa -o ../workspaces/quast/1512-IPA0-22-2
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:39
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1512-IPA0-22-2/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1512-IPA0-22-2//1512-IPA0-22-2.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1537-IPA0-20//1537-IPA0-20.faa -o ../workspaces/quast/1537-IPA0-20
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:40
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1537-IPA0-20/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1537-IPA0-20//1537-IPA0-20.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1539-IPA0-00//1539-IPA0-00.faa -o ../workspaces/quast/1539-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:41
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1539-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1539-IPA0-00//1539-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1539-IPA0-04//1539-IPA0-04.faa -o ../workspaces/quast/1539-IPA0-04
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:41
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1539-IPA0-04/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1539-IPA0-04//1539-IPA0-04.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1543-IPA0-00//1543-IPA0-00.faa -o ../workspaces/quast/1543-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:42
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1543-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1543-IPA0-00//1543-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1546-IPA0-05//1546-IPA0-05.faa -o ../workspaces/quast/1546-IPA0-05
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:43
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1546-IPA0-05/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1546-IPA0-05//1546-IPA0-05.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1546-IPA0-13//1546-IPA0-13.faa -o ../workspaces/quast/1546-IPA0-13
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:43
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1546-IPA0-13/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1546-IPA0-13//1546-IPA0-13.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1546-IPA1-05//1546-IPA1-05.faa -o ../workspaces/quast/1546-IPA1-05
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:44
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1546-IPA1-05/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1546-IPA1-05//1546-IPA1-05.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1552-IPA0-00//1552-IPA0-00.faa -o ../workspaces/quast/1552-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:45
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1552-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1552-IPA0-00//1552-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1555-IPA0-00//1555-IPA0-00.faa -o ../workspaces/quast/1555-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:45
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1555-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1555-IPA0-00//1555-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1555-IPA0-06//1555-IPA0-06.faa -o ../workspaces/quast/1555-IPA0-06
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:46
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1555-IPA0-06/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1555-IPA0-06//1555-IPA0-06.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1555-IPA1-06//1555-IPA1-06.faa -o ../workspaces/quast/1555-IPA1-06
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:46
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1555-IPA1-06/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1555-IPA1-06//1555-IPA1-06.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1572-IPA0-00//1572-IPA0-00.faa -o ../workspaces/quast/1572-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:47
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1572-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1572-IPA0-00//1572-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1581-IPA0-00//1581-IPA0-00.faa -o ../workspaces/quast/1581-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:48
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1581-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1581-IPA0-00//1581-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1581-IPA0-07//1581-IPA0-07.faa -o ../workspaces/quast/1581-IPA0-07
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:48
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1581-IPA0-07/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1581-IPA0-07//1581-IPA0-07.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1581-IPA0-20//1581-IPA0-20.faa -o ../workspaces/quast/1581-IPA0-20
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:49
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1581-IPA0-20/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1581-IPA0-20//1581-IPA0-20.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1581-IPA0-29//1581-IPA0-29.faa -o ../workspaces/quast/1581-IPA0-29
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:50
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1581-IPA0-29/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1581-IPA0-29//1581-IPA0-29.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1581-IPA0-37//1581-IPA0-37.faa -o ../workspaces/quast/1581-IPA0-37
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:50
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1581-IPA0-37/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1581-IPA0-37//1581-IPA0-37.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1592-IPA0-00//1592-IPA0-00.faa -o ../workspaces/quast/1592-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:51
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1592-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1592-IPA0-00//1592-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1592-IPA0-13//1592-IPA0-13.faa -o ../workspaces/quast/1592-IPA0-13
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:51
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1592-IPA0-13/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1592-IPA0-13//1592-IPA0-13.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1592-IPA0-21//1592-IPA0-21.faa -o ../workspaces/quast/1592-IPA0-21
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:52
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1592-IPA0-21/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1592-IPA0-21//1592-IPA0-21.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1597-IPA0-45//1597-IPA0-45.faa -o ../workspaces/quast/1597-IPA0-45
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:53
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1597-IPA0-45/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1597-IPA0-45//1597-IPA0-45.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1597-IPA0-57//1597-IPA0-57.faa -o ../workspaces/quast/1597-IPA0-57
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:53
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1597-IPA0-57/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1597-IPA0-57//1597-IPA0-57.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1606-IPA0-00-1//1606-IPA0-00-1.faa -o ../workspaces/quast/1606-IPA0-00-1
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:54
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1606-IPA0-00-1/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1606-IPA0-00-1//1606-IPA0-00-1.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1626-IPA0-05//1626-IPA0-05.faa -o ../workspaces/quast/1626-IPA0-05
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:54
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1626-IPA0-05/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1626-IPA0-05//1626-IPA0-05.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1639-IPA0-00//1639-IPA0-00.faa -o ../workspaces/quast/1639-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:55
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1639-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1639-IPA0-00//1639-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1641-IPA0-00//1641-IPA0-00.faa -o ../workspaces/quast/1641-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:56
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1641-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1641-IPA0-00//1641-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1641-IPA0-07//1641-IPA0-07.faa -o ../workspaces/quast/1641-IPA0-07
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:56
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1641-IPA0-07/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1641-IPA0-07//1641-IPA0-07.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1641-IPA0-17//1641-IPA0-17.faa -o ../workspaces/quast/1641-IPA0-17
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:57
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1641-IPA0-17/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1641-IPA0-17//1641-IPA0-17.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1641-IPA0-23//1641-IPA0-23.faa -o ../workspaces/quast/1641-IPA0-23
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:57
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1641-IPA0-23/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1641-IPA0-23//1641-IPA0-23.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1647-IPA0-17//1647-IPA0-17.faa -o ../workspaces/quast/1647-IPA0-17
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:58
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1647-IPA0-17/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1647-IPA0-17//1647-IPA0-17.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1653-IPA0-00//1653-IPA0-00.faa -o ../workspaces/quast/1653-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:59
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1653-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1653-IPA0-00//1653-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1653-IPA0-10//1653-IPA0-10.faa -o ../workspaces/quast/1653-IPA0-10
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:30:59
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1653-IPA0-10/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1653-IPA0-10//1653-IPA0-10.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1653-IPA0-20//1653-IPA0-20.faa -o ../workspaces/quast/1653-IPA0-20
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:00
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1653-IPA0-20/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1653-IPA0-20//1653-IPA0-20.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1658-IPA0-05//1658-IPA0-05.faa -o ../workspaces/quast/1658-IPA0-05
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:00
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1658-IPA0-05/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1658-IPA0-05//1658-IPA0-05.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1658-IPA0-08//1658-IPA0-08.faa -o ../workspaces/quast/1658-IPA0-08
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:01
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1658-IPA0-08/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1658-IPA0-08//1658-IPA0-08.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1674-IPA0-17//1674-IPA0-17.faa -o ../workspaces/quast/1674-IPA0-17
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:02
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1674-IPA0-17/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1674-IPA0-17//1674-IPA0-17.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1676-IPA0-00//1676-IPA0-00.faa -o ../workspaces/quast/1676-IPA0-00
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:02
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1676-IPA0-00/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1676-IPA0-00//1676-IPA0-00.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA0-10//1687-IPA0-10.faa -o ../workspaces/quast/1687-IPA0-10
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:03
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA0-10/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA0-10//1687-IPA0-10.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA0-13//1687-IPA0-13.faa -o ../workspaces/quast/1687-IPA0-13
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:04
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA0-13/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA0-13//1687-IPA0-13.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA0-16-1//1687-IPA0-16-1.faa -o ../workspaces/quast/1687-IPA0-16-1
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:04
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA0-16-1/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA0-16-1//1687-IPA0-16-1.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA0-16-2//1687-IPA0-16-2.faa -o ../workspaces/quast/1687-IPA0-16-2
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:05
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA0-16-2/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA0-16-2//1687-IPA0-16-2.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA0-25//1687-IPA0-25.faa -o ../workspaces/quast/1687-IPA0-25
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:05
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA0-25/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA0-25//1687-IPA0-25.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA0-32//1687-IPA0-32.faa -o ../workspaces/quast/1687-IPA0-32
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:06
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA0-32/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA0-32//1687-IPA0-32.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA0-39-1//1687-IPA0-39-1.faa -o ../workspaces/quast/1687-IPA0-39-1
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:07
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA0-39-1/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA0-39-1//1687-IPA0-39-1.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA0-39-2//1687-IPA0-39-2.faa -o ../workspaces/quast/1687-IPA0-39-2
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:07
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA0-39-2/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA0-39-2//1687-IPA0-39-2.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA0-48//1687-IPA0-48.faa -o ../workspaces/quast/1687-IPA0-48
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:08
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA0-48/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA0-48//1687-IPA0-48.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA0-52//1687-IPA0-52.faa -o ../workspaces/quast/1687-IPA0-52
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:08
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA0-52/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA0-52//1687-IPA0-52.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA0-60//1687-IPA0-60.faa -o ../workspaces/quast/1687-IPA0-60
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:09
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA0-60/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA0-60//1687-IPA0-60.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA0-64//1687-IPA0-64.faa -o ../workspaces/quast/1687-IPA0-64
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:10
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA0-64/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA0-64//1687-IPA0-64.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA1-13//1687-IPA1-13.faa -o ../workspaces/quast/1687-IPA1-13
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:10
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA1-13/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA1-13//1687-IPA1-13.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA1-25//1687-IPA1-25.faa -o ../workspaces/quast/1687-IPA1-25
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:11
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA1-25/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA1-25//1687-IPA1-25.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA1-32//1687-IPA1-32.faa -o ../workspaces/quast/1687-IPA1-32
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:11
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA1-32/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA1-32//1687-IPA1-32.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA1-48//1687-IPA1-48.faa -o ../workspaces/quast/1687-IPA1-48
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:12
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA1-48/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA1-48//1687-IPA1-48.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA1-52//1687-IPA1-52.faa -o ../workspaces/quast/1687-IPA1-52
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:13
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA1-52/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA1-52//1687-IPA1-52.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA1-60//1687-IPA1-60.faa -o ../workspaces/quast/1687-IPA1-60
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:13
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA1-60/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA1-60//1687-IPA1-60.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA2-25//1687-IPA2-25.faa -o ../workspaces/quast/1687-IPA2-25
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:14
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA2-25/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA2-25//1687-IPA2-25.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA2-48-1//1687-IPA2-48-1.faa -o ../workspaces/quast/1687-IPA2-48-1
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:14
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA2-48-1/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA2-48-1//1687-IPA2-48-1.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA2-48-2//1687-IPA2-48-2.faa -o ../workspaces/quast/1687-IPA2-48-2
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:15
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA2-48-2/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA2-48-2//1687-IPA2-48-2.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA2-60//1687-IPA2-60.faa -o ../workspaces/quast/1687-IPA2-60
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:16
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA2-60/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA2-60//1687-IPA2-60.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/1687-IPA3-60//1687-IPA3-60.faa -o ../workspaces/quast/1687-IPA3-60
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:16
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/1687-IPA3-60/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/1687-IPA3-60//1687-IPA3-60.faa because it contains non-ACGTN characters.
+/software/quast/5.2.0/bin/quast.py --threads 20 ../genome_data/pseudomonas/BPA-00-a//BPA-00-a.faa -o ../workspaces/quast/BPA-00-a
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-1160.95.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo (linux_64)
+  Python version: 3.7.4
+  CPUs number: 52
+
+Started: 2024-02-07 14:31:17
+
+Logging to /projects/p31752/pseudomonas_prophage/workspaces/quast/BPA-00-a/quast.log
+
+CWD: /projects/p31752/pseudomonas_prophage/scripts
+Main parameters: 
+  MODE: default, threads: 20, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+
+    ERROR! Skipping ../genome_data/pseudomonas/BPA-00-a//BPA-00-a.faa because it contains non-ACGTN characters.
+ERROR! File not found (contigs): ../genome_data/pseudomonas/non-aeruginosa//non-aeruginosa.faa
+
+In case you have troubles running QUAST, you can write to quast.support@cab.spbu.ru
+or report an issue on our GitHub repository https://github.com/ablab/quast/issues
+Please provide us with quast.log file from the output directory.
+
+  /// MultiQC 🔍 | v1.11
+
+|           multiqc | MultiQC Version v1.19 now available!
+|           multiqc | Search path : /projects/p31752/pseudomonas_prophage/workspaces/quast
+|         searching | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 188/188  
+|           multiqc | No analysis results found. Cleaning up..
+|           multiqc | MultiQC complete
