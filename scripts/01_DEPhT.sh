@@ -10,6 +10,9 @@
 #SBATCH --mail-type=all
 #SBATCH --mail-user=andrewwatson2025@u.northwestern.edu
 
+##this is a new comment
+
+
 #source directory variables
 source config.sh
 module load anaconda3
