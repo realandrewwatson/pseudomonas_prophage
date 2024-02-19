@@ -1,0 +1,55 @@
+[33mRequirement already satisfied: defense-finder-models>1.2.4 in /home/adw7050/.macsyfinder/models/defense-finder-models.
+To force installation use option -f --force-reinstall.[0m
+[33mRequirement already satisfied: CasFinder>3.1.0 in /home/adw7050/.macsyfinder/models/CasFinder.
+To force installation use option -f --force-reinstall.[0m
+[33mRequirement already satisfied: CasFinder>3.1.0 in /home/adw7050/.macsyfinder/models/CasFinder.
+To force installation use option -f --force-reinstall.[0m
+ 2024-02-14 15:23:12 | [32mINFO    [0m | [32mReceived file /projects/p31752/pseudomonas_prophage/genome_data/pseudomonas/1020-IPA-00/1020-IPA-00.fna[0m
+ 2024-02-14 15:23:12 | [33mWARNING [0m | [33mOut directory /projects/p31752/pseudomonas_prophage/workspaces/defenseFinder already exists. Existing DefenseFinder output will be overwritten[0m
+ 2024-02-14 15:23:12 | [33mWARNING [0m | [33mTemporary directory /projects/p31752/pseudomonas_prophage/workspaces/defenseFinder/defense-finder-tmp already exists. Overwriting it.[0m
+ 2024-02-14 15:23:12 | [32mINFO    [0m | [32m/projects/p31752/pseudomonas_prophage/genome_data/pseudomonas/1020-IPA-00/1020-IPA-00.fna is a nucleotide fasta file. Prodigal will annotate the CDS[0m
+ 2024-02-14 15:28:27 | [32mINFO    [0m | [32mProdigal annotated 88 replicons[0m
+ 2024-02-14 15:28:50 | [32mINFO    [0m | [32mProtein files written in /projects/p31752/pseudomonas_prophage/workspaces/defenseFinder/1020-IPA-00.prt[0m
+ 2024-02-14 15:28:50 | [32mINFO    [0m | [32m458401 CDS were annotated[0m
+ 2024-02-14 15:28:50 | [32mINFO    [0m | [32mRunning DefenseFinder[0m
+Traceback (most recent call last):
+  File "/home/adw7050/.local/lib/python3.10/site-packages/macsypy/profile.py", line 70, in get_profile
+    path = model_location.get_profile(gene.name)
+  File "/home/adw7050/.local/lib/python3.10/site-packages/macsypy/registries.py", line 344, in get_profile
+    return self._profiles[name]
+KeyError: 'Rst_Hydrolase-Tm__Hydrolase-Tm'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/adw7050/.local/bin/defense-finder", line 8, in <module>
+    sys.exit(cli())
+  File "/home/adw7050/.local/lib/python3.10/site-packages/click/core.py", line 1128, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/adw7050/.local/lib/python3.10/site-packages/click/core.py", line 1053, in main
+    rv = self.invoke(ctx)
+  File "/home/adw7050/.local/lib/python3.10/site-packages/click/core.py", line 1659, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/adw7050/.local/lib/python3.10/site-packages/click/core.py", line 1395, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/adw7050/.local/lib/python3.10/site-packages/click/core.py", line 754, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/adw7050/.local/lib/python3.10/site-packages/defense_finder_cli/main.py", line 143, in run
+    defense_finder.run(protein_file_name, dbtype, workers, coverage, tmp_dir, models_dir, no_cut_ga, loglevel)
+  File "/home/adw7050/.local/lib/python3.10/site-packages/defense_finder/__init__.py", line 29, in run
+    macsyfinder.main(args=msf_cmd)
+  File "/home/adw7050/.local/lib/python3.10/site-packages/macsypy/scripts/macsyfinder.py", line 1193, in main
+    all_systems, rejected_candidates = search_systems(config, model_registry, models_def_to_detect, logger)
+  File "/home/adw7050/.local/lib/python3.10/site-packages/macsypy/scripts/macsyfinder.py", line 529, in search_systems
+    parser.parse(models_def_to_detect)
+  File "/home/adw7050/.local/lib/python3.10/site-packages/macsypy/definition_parser.py", line 85, in parse
+    self._fill_gene_bank(model_node, model_location, def_loc)
+  File "/home/adw7050/.local/lib/python3.10/site-packages/macsypy/definition_parser.py", line 287, in _fill_gene_bank
+    self.gene_bank.add_new_gene(model_location, gene_name, self.profile_factory)
+  File "/home/adw7050/.local/lib/python3.10/site-packages/macsypy/gene.py", line 102, in add_new_gene
+    gene = CoreGene(model_location, name, profile_factory)
+  File "/home/adw7050/.local/lib/python3.10/site-packages/macsypy/gene.py", line 114, in __init__
+    self._profile = profile_factory.get_profile(self, model_location)
+  File "/home/adw7050/.local/lib/python3.10/site-packages/macsypy/profile.py", line 72, in get_profile
+    raise MacsypyError(f"'{model_location.name}/{gene.name}': No such profile")
+macsypy.error.MacsypyError: 'defense-finder-models/Rst_Hydrolase-Tm__Hydrolase-Tm': No such profile

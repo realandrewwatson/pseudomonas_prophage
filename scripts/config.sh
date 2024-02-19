@@ -8,7 +8,7 @@ usr="adw7050"
 
 #MODIFY THESE LINES
 mainDir="/projects/p31752/pseudomonas_prophage" #THE ABSOLUTE PATH TO YOUR PROJECT FOLDER
-assembledDir="${mainDir}/genome_data/pseudomonas" # CHANGE TO PATH OF FOLDER CONTAINING **SPADES** DATA
+assembledDir="${mainDir}/genome_data/pseudomonas" # CHANGE TO PATH OF FOLDER CONTAINING GENOMIC DATA
 workspaceDir="${mainDir}/workspaces" # CHANGE TO WHERE THE OUTPUT FILES SHOULD GO
 
 
@@ -19,11 +19,10 @@ then
 fi
 
 
-
 # Setup variables
 dephtDir="${workspaceDir}/dephtDir"
 quastDir="${workspaceDir}/quast"
-
+defFindDir="${workspaceDir}/defenseFinder"
 
 conda_envs="/home/${usr}/.conda/envs"
 

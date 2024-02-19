@@ -1,0 +1,762 @@
+[33mRequirement already satisfied: defense-finder-models>1.2.4 in /home/adw7050/.macsyfinder/models/defense-finder-models.
+To force installation use option -f --force-reinstall.[0m
+[33mRequirement already satisfied: CasFinder>3.1.0 in /home/adw7050/.macsyfinder/models/CasFinder.
+To force installation use option -f --force-reinstall.[0m
+[33mRequirement already satisfied: CasFinder>3.1.0 in /home/adw7050/.macsyfinder/models/CasFinder.
+To force installation use option -f --force-reinstall.[0m
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1020-IPA-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1020-IPA-03-a.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1020-PPAB-01-a.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1037-IPA-00-a.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1037-PA1-00-a.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1037-PA2-00-a.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1042-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1042-IPA-04.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1045-IPA-05.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1045-IPA-07.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1049-IPA-10.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1049-IPA-14.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1049-IPA-40.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1049-PAI-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1054-IPA-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1060-IPA-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1060-IPA-03.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1060-PA1-02.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1060-PA2-04.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1060-PA3-06.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1060-PA4-06.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1066-IPA-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1067-IPA-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1069-IPA-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1094-IPA-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1121-IPA-15-a.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1134-IPA-14-a.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1164-IPA0-00-a.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1164-IPA0-03-a.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1170-IPA0-00-a.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1171-IPA0-07-a.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1200-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1204-PPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1205-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1210-IPA0-00-a.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1210-IPA0-06.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1213-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1230-IPA0-24.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1231-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1241-IPA0-00-1.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1241-IPA0-08.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1248-IPA0-11.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1248-IPA0-14a.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1248-IPA0-30.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1251-IPA0-17.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1251-IPA0-22.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1265-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1265-IPA0-10.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1265-PPA0-00-1a.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1268-IPA0-08.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1270-IPA0-16.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1270-IPA0-24.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1270-IPA1-24.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1270-IPA2-34.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1296-IPA0-21.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1296-IPA0-26.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1296-IPA0-32.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1296-IPA1-26.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1300-IPA0-09.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1304-IPA0-26.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1304-IPA1-26.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1304-IPAB-63.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1305-IPA0-10.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1305-IPA0-16-1.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1305-IPA0-19-1.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1321-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1324-IPAB-21.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA0-28.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA0-33.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA0-35.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA0-41.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA0-44.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA0-53.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA1-28.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA1-35.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA1-41.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA1-44.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA1-53.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA2-53.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA3-28.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA4-28.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPA5-28.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPAB-28.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPAB-30-1.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-IPAB-31-1.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1329-PPA0-02.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1347-IPA0-07.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1355-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1355-IPA0-07.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1355-IPA0-23.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1370-IPA0-27.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1370-IPA0-29.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1370-IPA1-29.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1375-IPA0-43.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1387-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1394-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1412-IPA0-21.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1412-IPA0-31.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1416-IPA0-21.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1431-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1431-IPA0-06.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1444-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1444-IPA0-05.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1446-IPA0-18.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1447-IPA0-15.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1447-IPA0-40-1.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1450-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1450-IPA0-05.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1455-IPA0-64.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1460-IPA0-33.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1461-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1461-IPA0-26.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1461-PPA0-06.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1466-IPA0-09.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1466-IPA0-31.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1486-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1486-IPA0-05.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1487-IPA0-04.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1492-IPA0-72.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1492-IPA1-72.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1499-IPA0-23.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1511-IPA0-19.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1511-IPA1-19.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1512-IPA0-06.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1512-IPA0-12.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1512-IPA0-22-2.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1537-IPA0-20.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1539-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1539-IPA0-04.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1543-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1546-IPA0-05.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1546-IPA0-13.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1546-IPA1-05.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1552-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1555-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1555-IPA0-06.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1555-IPA1-06.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1572-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1581-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1581-IPA0-07.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1581-IPA0-20.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1581-IPA0-29.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1581-IPA0-37.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1592-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1592-IPA0-13.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1592-IPA0-21.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1597-IPA0-45.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1597-IPA0-57.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1606-IPA0-00-1.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1626-IPA0-05.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1639-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1641-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1641-IPA0-07.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1641-IPA0-17.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1641-IPA0-23.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1647-IPA0-17.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1653-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1653-IPA0-10.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1653-IPA0-20.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1658-IPA0-05.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1658-IPA0-08.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1674-IPA0-17.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1676-IPA0-00.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA0-10.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA0-13.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA0-16-1.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA0-16-2.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA0-25.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA0-32.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA0-39-1.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA0-39-2.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA0-48.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA0-52.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA0-60.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA0-64.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA1-13.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA1-25.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA1-32.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA1-48.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA1-52.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA1-60.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA2-25.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA2-48-1.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA2-48-2.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA2-60.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path '1687-IPA3-60.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path 'BPA-00-a.faa' does not exist.
+Usage: defense-finder run [OPTIONS] FILE
+Try 'defense-finder run -h' for help.
+
+Error: Invalid value for 'FILE': Path 'non-aeruginosa.faa' does not exist.

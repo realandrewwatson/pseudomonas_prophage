@@ -1,0 +1,13 @@
+name: vcontact2
+channels:
+  - anaconda
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8.5
+  - bioconda::vcontact2
+  - bioconda::mcl
+  - bioconda::blast
+  - bioconda::diamond
+

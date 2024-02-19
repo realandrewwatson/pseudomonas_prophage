@@ -4,7 +4,7 @@
 #SBATCH --partition normal
 #SBATCH --nodes=1
 #SABTCH --ntasks-per-node=20
-#SBATCH --time=24:00:00
+#SBATCH --time=48:00:00
 #SBATCH --mem=0gb
 #SBATCH --job-name="DEPht Prophage Search - Pseudomonas"
 #SBATCH --mail-type=all
@@ -37,8 +37,6 @@ then
     conda env create -f "${mainDir}"/envs/depht.yml
 fi
 
-
-
 #activate remaining dependancies and conda environment
 source activate depht 
 module load blast
@@ -53,12 +51,23 @@ then
 	mkdir ${dephtDir}
 fi
 
-##########################################
-##************** Run DEPHT *************##
-##########################################
+##Run DEPHT – These options are not yet optimized
 
 #With input directory
-depht ${assembledDir}/*/*.fna ${dephtDir} -c 20 -m sensitive -t ${dephtDir}
+#depht ${assembledDir}/*/*.fna ${dephtDir} -c 20 -m sensitive -t ${dephtDir}
+
+for directory in ${assembledDir}/*/
+do
+	d_sub=$(basename $directory) # Save Basename
+	if [ ! -d "${dephtDir}/${d_sub}" ]
+	then
+	mkdir ${dephtDir}/${d_sub}
+	depht ${assembledDir}/${d_sub}/*.fna ${dephtDir} -c 20 -m sensitive -t ${dephtDir}/${d_sub}
+	fi
+	
+done
+
+
 
 #With one input genome 
 #depht ${assembledDir}/1020-IPA-00/1020-IPA-00.fna ${dephtDir} -c 20 -m sensitive -t ${dephtDir}
@@ -67,4 +76,4 @@ depht ${assembledDir}/*/*.fna ${dephtDir} -c 20 -m sensitive -t ${dephtDir}
 ##Shut down conda and cleaer path
 source deactivate
 module purge all
-
+mv slurm* logs
